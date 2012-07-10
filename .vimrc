@@ -6,6 +6,8 @@ filetype plugin indent on
 
 set nocompatible
 
+set mouse=a
+
 set modelines=0
 
 set term=xterm-256color
