@@ -43,8 +43,7 @@ set incsearch
 set showmatch
 set hlsearch
 nnoremap <leader><space> :noh<cr>
-nnoremap <tab> %
-vnoremap <tab> %
+imap <Tab> <C-P>
 
 set wrap
 set textwidth=80
